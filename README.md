@@ -1,1 +1,1 @@
-# Laborat-rio-01
+# Laboratrio-01
