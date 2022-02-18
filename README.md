@@ -9,7 +9,16 @@
 * US06 - Como professor/aluno, eu quero verificar a ativação da disciplina, para saber o estado da disciplina.
 * US07 - Como professor, eu quero verificar os alunos matriculados, para saber quem vai cursar a disciplina.
 * US08 - Como Secretaria, eu quero gerar o currículo, para os alunos/professores terem acesso ao currículo.
-* US09 - Como Secretaria, eu quero fazer o CRUD de informações de disciplinas, para deixar as informações de disciplinas atualizadas.
-* US10 - Como Secretaria, eu quero fazer o CRUD de informações de alunos, para deixar as informações de alunos atualizadas.
-* US11 - Como Secretaria, eu quero fazer o CRUD de informações de professores, para deixar as informações de professores atualizadas.
-* US12 - Como Sistema de cobrança, eu quero ser informado da inscrição para o semestre, para gerar os boletos.
+* US09 - Como Secretaria, eu quero cadastrar disciplinas, para adicionar disciplinas no sistema.
+* US10 - Como Secretaria, eu quero atualizar as disciplinas cadastradas, para deixar as disciplinas atualizadas no sistema.
+* US11 - Como Secretaria, eu quero ver as disciplinas cadastradas, para saber quais as disciplinas estão no sistema.
+* US12 - Como Secretaria, eu quero remover as disciplinas cadastradas, para poder tirar disciplinas do sistema.
+* US13 - Como Secretaria, eu quero cadastrar alunos, para adicionar alunos no sistema.
+* US14 - Como Secretaria, eu quero atualizar os alunos cadastrados, para deixar os alunos atualizados no sistema.
+* US15 - Como Secretaria, eu quero ver os alunos cadastrados, para saber quais os alunos estão no sistema.
+* US16 - Como Secretaria, eu quero remover os alunos cadastrados, para poder tirar alunos do sistema.
+* US17 - Como Secretaria, eu quero cadastrar professores, para adicionar professores no sistema.
+* US18 - Como Secretaria, eu quero atualizar os professores cadastrados, para deixar os professores atualizados no sistema.
+* US19 - Como Secretaria, eu quero ver os professores cadastrados, para saber quais os professores estão no sistema.
+* US20 - Como Secretaria, eu quero remover os professores cadastrados, para poder tirar professores do sistema.
+* US21 - Como Sistema de cobrança, eu quero ser informado da inscrição para o semestre, para gerar os boletos.
