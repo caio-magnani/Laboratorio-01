@@ -3,6 +3,7 @@ public class Usuario {
     private String senha;
     private String login;
     private boolean estaLogado;
+    private int tipo;
 
     private void logar(){
 

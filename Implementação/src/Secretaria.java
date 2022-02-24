@@ -6,4 +6,6 @@ public class Secretaria extends Usuario {
     private void atualizarUsuario(){}
 
     private void deletarUsuario(){}
+
+    private void gerarCurriculo(){}
 }
