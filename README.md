@@ -2,13 +2,13 @@
 
 ## Diagrama de Caso de Uso:
 
-![Diagrama_CasoDeUso](./Projeto/Diagrama de Caso de Uso.png)
+![Diagrama_CasoDeUso](./Projeto/Diagrama%20de%20Caso%20de%20Uso.png)
 
 ---
 
 ## Dagrama de Classes
 
-![Diagrama_Classes](./Projeto/Diagrama de classe.png)
+![Diagrama_Classes](./Projeto/Diagrama%20de%20classe.png)
 
 ---
 
