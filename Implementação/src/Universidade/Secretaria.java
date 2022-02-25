@@ -1,27 +1,15 @@
-import java.util.ArrayList;
+package Universidade;
+public class Secretaria implements Usuario {
 
-import Universidade.Disciplina;
-import Universidade.Semestre;
-import Universidade.Usuario;
+    private Usuario consultarUsuario(String nome){return null;}
 
-public class Aluno implements Usuario{
-    private ArrayList<Disciplina> disciplinas;
+    private void criarUsuario(){}
 
-    private Aluno matricular(Disciplina d){    
-        return this;
-    }
+    private void atualizarUsuario(){}
 
-    private Aluno inscreverSemestre(Semestre s){    
-        return this;
-    }
+    private void deletarUsuario(){}
 
-    private void inscreverDisciplina(Semestre s){    
-
-    }
-
-    private void cancelarMatricula(){    
-
-    }
+    private String gerarCurriculo(Curso curso){return new Curso().toString();}
 
     @Override
     public void logar() {
