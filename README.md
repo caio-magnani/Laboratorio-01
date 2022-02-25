@@ -2,13 +2,21 @@
 
 ## Diagrama de Caso de Uso:
 
+<<<<<<< HEAD
 ![Diagrama_CasoDeUso](./Projeto/Diagrama%20de%20Caso%20de%20Uso.png)
+=======
+[Diagrama_CasoDeUso](./Projeto/Diagrama de Caso de Uso.png)
+>>>>>>> parent of f95e431... Update README.md
 
 ---
 
 ## Dagrama de Classes
 
+<<<<<<< HEAD
 ![Diagrama_Classes](./Projeto/Diagrama%20de%20classe.png)
+=======
+[Diagrama_Classes](./Projeto/Diagrama de classe.png)
+>>>>>>> parent of f95e431... Update README.md
 
 ---
 
