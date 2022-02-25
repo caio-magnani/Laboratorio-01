@@ -1,5 +1,7 @@
 # Laboratorio-01
+## Histórias de usuários
 
+<<<<<<< HEAD
 ## Diagrama de Caso de Uso:
 
 <<<<<<< HEAD
@@ -21,6 +23,8 @@
 ---
 
 ## Histórias de usuários:
+=======
+>>>>>>> parent of 01c4b66... Uptade para próxima entrega
 * US01 - Como aluno, eu quero me matricular nas disciplinas obrigatórias, para poder cursar as disciplinas obrigatórias.
 * US02 - Como aluno, eu quero poder me matricular em disciplinas optativas, para poder cursar disciplinas optativas.
 * US03 - Como aluno, eu quero cancelar a matrícula, para não estar inscrito em uma disciplina que não poderei cursar.

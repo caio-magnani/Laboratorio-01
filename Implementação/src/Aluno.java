@@ -1,17 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import java.util.ArrayList;
+=======
+public class Aluno extends Usuario{
+    private Disciplina[] disciplinas;
+>>>>>>> parent of 01c4b66... Uptade para próxima entrega
 
-import Universidade.Disciplina;
-import Universidade.Semestre;
-import Universidade.Usuario;
+    private void matricular(Disciplina d){    }
 
-public class Aluno implements Usuario{
-    private ArrayList<Disciplina> disciplinas;
+    private void inscreverSemestre(Semestre s){    }
 
-    private Aluno matricular(Disciplina d){    
-        return this;
-    }
+    private void inscreverDisciplina(Semestre s){    }
 
+<<<<<<< HEAD
     private Aluno inscreverSemestre(Semestre s){    
         return this;
     }
@@ -76,4 +77,7 @@ public class Aluno extends Usuario{
 
     }
 >>>>>>> parent of a84d2a4... atualizando implementacao com diagrama de classes
+=======
+    private void cancelarMatricula(){    }
+>>>>>>> parent of 01c4b66... Uptade para próxima entrega
 }

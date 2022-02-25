@@ -3,6 +3,10 @@ public class Usuario {
     private String senha;
     private String login;
     private boolean estaLogado;
+<<<<<<< HEAD
+=======
+    private int tipo;
+>>>>>>> parent of 01c4b66... Uptade para próxima entrega
 
     private void logar(){
 
