@@ -21,6 +21,7 @@ Arquitetura utilizada foi a arquitetura em camadas. A camada de CLI (Comand Line
 - Controller/Universidade: Gerencia dados de alunos e graduações. Carregar dos arquivos para as listas e persistir estes dados.
 - Cotroller/Usuario, Aluno, Professor, Secretaria: Estrutura melhor os dados e define as permições de cada usuário.
 - Controller/Materia, Disciplina e Matricula: Servem para estabelecer a relação da classe Graduacao e Usuário.
+- Controller/Turma: Serve para estabelecer relação entre matriculas e professores.
 - Controller/Graduacao: Gerenciar cursos fornecidos pela classe Universidade.
 ---
 
