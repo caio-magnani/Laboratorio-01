@@ -1,5 +1,9 @@
 # Laboratorio-01
 
+[Diagrama de Caso De Uso](#diagrama-de-caso-de-uso)
+[Diagrama de Classes](#dagrama-de-classes)
+[Histórias de Usuários](#hist%C3%B3rias-de-usu%C3%A1rios)
+
 ## Diagrama de Caso de Uso:
 
 ![Diagrama_CasoDeUso](./Projeto/Diagrama%20de%20Caso%20de%20Uso.png)
