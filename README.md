@@ -1,6 +1,18 @@
 # Laboratorio-01
-## Histórias de usuários
 
+## Diagrama de Caso de Uso:
+
+[Diagrama de Caso de Uso](./Projeto/Diagrama de Caso de Uso.png)
+
+---
+
+## Dagrama de Classes
+
+[Diagrama de Classes](./Projeto/Diagrama de classe.png)
+
+---
+
+## Histórias de usuários:
 * US01 - Como aluno, eu quero me matricular nas disciplinas obrigatórias, para poder cursar as disciplinas obrigatórias.
 * US02 - Como aluno, eu quero poder me matricular em disciplinas optativas, para poder cursar disciplinas optativas.
 * US03 - Como aluno, eu quero cancelar a matrícula, para não estar inscrito em uma disciplina que não poderei cursar.
