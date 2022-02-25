@@ -1,17 +1,35 @@
 # Laboratorio-01
 
+- [Definições](#definições)
+
 - [Diagrama de Caso De Uso](#diagrama-de-caso-de-uso)
 
 - [Diagrama de Classes](#dagrama-de-classes)
 
 - [Histórias de Usuários](#hist%C3%B3rias-de-usu%C3%A1rios)
 
+
+## Definições
+
+### Arquitetura
+
+Arquitetura utilizada foi a arquitetura em camadas. A camada de CLI (Comand Line Interface) e a camada de Controller (cuida dos dados e da percistencia dos dados).
+
+### Classes
+
+- CLI/App: Classe responsavel por fazer a mediação entre CLI e Controller e Validadar permissões de acesso.
+- Controller/Universidade: Gerencia dados de alunos e graduações. Carregar dos arquivos para as listas e persistir estes dados.
+- Cotroller/Usuario, Aluno, Professor, Secretaria: Estrutura melhor os dados e define as permições de cada usuário.
+- Controller/Materia, Disciplina e Matricula: Servem para estabelecer a relação da classe Graduacao e Usuário.
+- Controller/Graduacao: Gerenciar cursos fornecidos pela classe Universidade.
+---
+
 ## Diagrama de Caso de Uso:
 
 ![Diagrama_CasoDeUso](./Projeto/Diagrama%20de%20Caso%20de%20Uso.png)
 
 ---
-
+  
 ## Dagrama de Classes
 
 ![Diagrama_Classes](./Projeto/Diagrama%20de%20classe.png)
