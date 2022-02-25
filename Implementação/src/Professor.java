@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
 
 import Universidade.Disciplina;
@@ -41,4 +42,7 @@ public class Professor implements Usuario {
         // TODO Auto-generated method stub
         return false;
     }
+=======
+public class Professor extends Usuario {
+>>>>>>> parent of a84d2a4... atualizando implementacao com diagrama de classes
 }

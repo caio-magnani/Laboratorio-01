@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
 
 import Universidade.Disciplina;
@@ -58,4 +59,21 @@ public class Aluno implements Usuario{
         // TODO Auto-generated method stub
         return false;
     }
+=======
+public class Aluno extends Usuario{
+    private Disciplina[] disciplinasObrigatorias;
+    private Disciplina[] disciplinasOptativas;
+
+    private void matricula(Disciplina d){
+
+    }
+
+    private void inscreverSemestre(Semestre s){
+
+    }
+
+    private void cancelarMatricula(){
+
+    }
+>>>>>>> parent of a84d2a4... atualizando implementacao com diagrama de classes
 }
