@@ -1,10 +1,10 @@
 # Laboratorio-01
 
-[Diagrama de Caso De Uso](#diagrama-de-caso-de-uso)
+- [Diagrama de Caso De Uso](#diagrama-de-caso-de-uso)
 
-[Diagrama de Classes](#dagrama-de-classes)
+- [Diagrama de Classes](#dagrama-de-classes)
 
-[Histórias de Usuários](#hist%C3%B3rias-de-usu%C3%A1rios)
+- [Histórias de Usuários](#hist%C3%B3rias-de-usu%C3%A1rios)
 
 ## Diagrama de Caso de Uso:
 
