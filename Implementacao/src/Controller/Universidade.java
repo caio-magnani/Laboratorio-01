@@ -2,6 +2,8 @@ package Controller;
 
 import java.util.List;
 
+import Controller.Usuarios.Usuario;
+
 public class Universidade {
     private List<Usuario> usuarios;
     private List<Graduacao> cursos;

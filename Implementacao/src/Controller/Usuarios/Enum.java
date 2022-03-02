@@ -1,4 +1,4 @@
-package Controller;
+package Controller.Usuarios;
 
 public enum Enum{
     Usuario("U"), Aluno("A"), Professor("P"), Secretaria("S");

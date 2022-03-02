@@ -1,4 +1,4 @@
-package Controller;
+package Controller.Usuarios;
 
 public class Aluno extends Usuario{
 

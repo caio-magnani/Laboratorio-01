@@ -1,4 +1,4 @@
-package Controller;
+package Controller.Usuarios;
 
 import Controller.Exceptions.InvalidLoginOrPasswordException;
 
@@ -9,16 +9,12 @@ public abstract class Usuario {
     private boolean estaLogado;
     private Enum tipo;
 
-// Construtor
-
     public Usuario (String nome, String login, String senha, Enum tipo){
         this.nome = nome;
         this.login = login;
         this.senha = senha;
         this.tipo = tipo;
     }
-
-// Get
 
     public String getNome() {
         return nome;
@@ -32,8 +28,6 @@ public abstract class Usuario {
         return this.estaLogado;
     }
 
-// Metodos
-
     public void login(String login, String senha) throws InvalidLoginOrPasswordException{
         if(this.login.equals(login) && this.senha.equals(senha)){
             this.estaLogado=true;
@@ -45,8 +39,6 @@ public abstract class Usuario {
         this.estaLogado = false;
         System.out.println("System Responder >> Logout Efetuado");
     }
-
-// Overrides
 
     @Override
     public String toString(){
