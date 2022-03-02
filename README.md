@@ -4,7 +4,7 @@
 
 - [Diagrama de Caso De Uso](#diagrama-de-caso-de-uso)
 
-- [Diagrama de Classes](#dagrama-de-classes)
+- [Diagrama de Classes](#dagrama-de-Classes)
 
 - [Histórias de Usuários](#hist%C3%B3rias-de-usu%C3%A1rios)
 
@@ -33,7 +33,7 @@ Arquitetura utilizada foi a arquitetura em camadas. A camada de CLI (Comand Line
   
 ## Dagrama de Classes
 
-![Diagrama_Classes](./Projeto/Diagrama%20de%20classe.png)
+![Diagrama_Classes](./Projeto/Diagrama%20de%20Classe.png)
 
 ---
 

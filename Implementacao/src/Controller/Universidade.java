@@ -13,6 +13,4 @@ public class Universidade {
     public void addCurso(Graduacao curso){
         this.cursos.add(curso);
     }
-
-    public void novoSimestre(){}
 }
