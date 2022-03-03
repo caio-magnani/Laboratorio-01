@@ -33,7 +33,7 @@ Arquitetura utilizada foi a arquitetura em camadas. A camada de CLI (Comand Line
   
 ## Dagrama de Classes
 
-![Diagrama_Classes](./Projeto/Diagrama%20de%20classe.png)
+![Diagrama_Classes](./Projeto/Diagrama%20de%20Classe.png)
 
 ---
 
