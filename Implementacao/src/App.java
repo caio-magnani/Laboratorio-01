@@ -95,7 +95,7 @@ public class App {
     }
 }
 
-//          - Colocar alterações na secretaria
+//          - Colocar alterações na secretaria Caio diz: DONE!
 //          - Colocar classe de oferta
 //        testes
 //        o que acontece se o usuário não digita inteiros
