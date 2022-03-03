@@ -1,9 +1,9 @@
-package Controller;
+package universidade.usuarios;
 
 public enum Enum{
     Usuario("U"), Aluno("A"), Professor("P"), Secretaria("S");
     private String tipo;
-    
+
     Enum(String tipo){
         this.tipo=tipo;
     }
@@ -14,6 +14,6 @@ public enum Enum{
         this.tipo = tipo;
     }
     public boolean equal(Enum e){
-       return this.tipo.equals(e.getTipo());
+        return this.tipo.equals(e.getTipo());
     }
 }
